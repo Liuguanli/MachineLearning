@@ -18,6 +18,11 @@ collect source of ML or DM
 
 [没GPU也能玩梵高作画：Ubuntu tensorflow CPU版](http://blog.csdn.net/v_july_v/article/details/52683959)
 
-
-
+11月9日安装tensorflow
+[官网](https://www.tensorflow.org/versions/master/get_started/os_setup.html#download-and-setup)
+遇到问题
+```python
+ImportError: dlopen(/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload/_io.so, 2): Symbol not found: __PyCodecInfo_GetIncrementalDecoder
+```
+解决方法：hash -r python
 
