@@ -1,5 +1,7 @@
 # MachineLearning
-collect source of ML or DM
+collect resources of ML or DM
+
+[机器学习入门，及简单中文注解](http://mp.weixin.qq.com/s/dNBZyh0eKqXMj_OwVbxY7Q)
 
 ### Torch
 
