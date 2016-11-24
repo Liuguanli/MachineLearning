@@ -32,3 +32,6 @@ ImportError: dlopen(/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framewor
 [对话机器学习大神Yoshua Bengio（上）](http://www.infoq.com/cn/articles/ask-yoshua-bengio)
 
 [对话机器学习大神Yoshua Bengio（下）](http://www.infoq.com/cn/articles/ask-yoshua-bengio-2)
+
+### 机器学习常用库
+[scikit-learn](http://scikit-learn.org/stable/)
