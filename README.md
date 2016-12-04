@@ -35,3 +35,9 @@ ImportError: dlopen(/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framewor
 
 ### 机器学习常用库
 [scikit-learn](http://scikit-learn.org/stable/)
+
+
+
+### python
+[17个新手常见Python运行时错误](https://www.oschina.net/question/89964_62779)
+
