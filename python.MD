@@ -1,6 +1,7 @@
 
 ### 常见问题
 IndentationError: unindent does not match any outer indentation level
+
 [Python脚本运行出现语法错误：IndentationError: unindent does not match any outer indentation level](http://www.crifan.com/python_syntax_error_indentationerror/comment-page-1/)
 
 UnboundLocalError: local variable 'classifierResult' referenced before assignment
@@ -22,3 +23,9 @@ invalid literal for int() with base 10: ''    类型转换错误
 [Python中使用len方法得到字符串的长度](http://gcxieblog.blog.163.com/blog/static/56837839200901411215969/)
 
 [Python strip lstrip rstrip使用方法（字符串处理空格）](http://blog.csdn.net/suofiya2008/article/details/5608309)
+
+[Python中的sorted函数以及operator.itemgetter函数](http://blog.csdn.net/dongtingzhizi/article/details/12068205)
+
+[【python】tile函数简单介绍](http://blog.csdn.net/april_newnew/article/details/44176059)
+
+[numpy中argsort函数用法](http://www.aichengxu.com/view/15541)
