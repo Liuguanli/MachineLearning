@@ -29,3 +29,9 @@ invalid literal for int() with base 10: ''    类型转换错误
 [【python】tile函数简单介绍](http://blog.csdn.net/april_newnew/article/details/44176059)
 
 [numpy中argsort函数用法](http://www.aichengxu.com/view/15541)
+
+---
+[matplotlib.pyplot api](http://matplotlib.org/api/pyplot_api.html)
+
+
+[matplotlib.pyplot中add_subplot方法参数111的含义](http://www.codeweblog.com/matplotlib-pyplot%E4%B8%ADadd_subplot%E6%96%B9%E6%B3%95%E5%8F%82%E6%95%B0111%E7%9A%84%E5%90%AB%E4%B9%89/)
