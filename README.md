@@ -3,6 +3,8 @@ collect resources of ML or DM
 
 [机器学习入门，及简单中文注解](http://mp.weixin.qq.com/s/dNBZyh0eKqXMj_OwVbxY7Q)
 
+[深度学习中的激活函数导引](http://mp.weixin.qq.com/s/kkWTg8sxq9C5Hue8Z0cY4w)
+
 ### Torch
 
 [自动聊天机器人实验](https://ask.julyedu.com/question/7410)
