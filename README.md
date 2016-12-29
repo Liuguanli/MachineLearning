@@ -44,4 +44,9 @@ ImportError: dlopen(/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framewor
 ### python
 [17个新手常见Python运行时错误](https://www.oschina.net/question/89964_62779)
 
+### neural network
+[推荐 | 九本不容错过的深度学习和神经网络书籍](http://mp.weixin.qq.com/s/5isSeQ_ynZRIpk4FZJYcyQ)
 
+[资源 | 程序员实用深度学习免费课程：从入门到实践](http://mp.weixin.qq.com/s/qpZUgBo_EgScJ9acPaVflw)
+
+[基础 | 初学者必读：从迭代的五个层面理解机器学习](http://mp.weixin.qq.com/s/F3KueGU53KGRymRbxpp9uw)
