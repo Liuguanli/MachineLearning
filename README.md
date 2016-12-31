@@ -5,6 +5,8 @@ collect resources of ML or DM
 
 [深度学习中的激活函数导引](http://mp.weixin.qq.com/s/kkWTg8sxq9C5Hue8Z0cY4w)
 
+[你真的了解机器学习、深度学习、分布式计算、统计建模吗](http://mp.weixin.qq.com/s/S49TYm9ulbdTbDDC7xFDhg)
+
 ### Torch
 
 [自动聊天机器人实验](https://ask.julyedu.com/question/7410)
