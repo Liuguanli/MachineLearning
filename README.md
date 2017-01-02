@@ -52,3 +52,6 @@ ImportError: dlopen(/usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framewor
 [资源 | 程序员实用深度学习免费课程：从入门到实践](http://mp.weixin.qq.com/s/qpZUgBo_EgScJ9acPaVflw)
 
 [基础 | 初学者必读：从迭代的五个层面理解机器学习](http://mp.weixin.qq.com/s/F3KueGU53KGRymRbxpp9uw)
+
+### Book
+[近期（2016年12月28日），AI Optify 数据团队针对 30 多本深度学习和神经网络书籍，使用多种指标训练机器学习算法，为每本书进行了打分、排名。这份榜单基于数据得出。排名靠前的九本书如下](https://www.zhihu.com/question/36675272/answer/138220197)
